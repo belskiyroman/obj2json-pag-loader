@@ -1,5 +1,5 @@
 {
-  "name": "obj2json-pag-loader",
+  "name": "obj2json-pug-loader",
   "version": "1.0.0",
   "description": "create a pug template from js object which is json string",
   "main": "index.js",
