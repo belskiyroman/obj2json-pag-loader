@@ -1,0 +1,19 @@
+{
+  "name": "obj2json-pag-loader",
+  "version": "1.0.0",
+  "description": "create a pug template from js object which is json string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belskiyroman/obj2json-pag-loader.git"
+  },
+  "author": "Roman Belskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belskiyroman/obj2json-pag-loader/issues"
+  },
+  "homepage": "https://github.com/belskiyroman/obj2json-pag-loader#readme"
+}
